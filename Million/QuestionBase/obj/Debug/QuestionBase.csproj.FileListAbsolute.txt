@@ -1,0 +1,5 @@
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\QuestionBase\bin\Debug\QuestionBase.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\QuestionBase\bin\Debug\QuestionBase.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\QuestionBase\obj\Debug\QuestionBase.csprojResolveAssemblyReference.cache
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\QuestionBase\obj\Debug\QuestionBase.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\QuestionBase\obj\Debug\QuestionBase.pdb

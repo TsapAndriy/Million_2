@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine", "QuestionBase\GameEngine.csproj", "{41F5AFF7-A99E-48E9-B18E-A98D957EE019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetQuestionDataBase", "SetQuestionDataBase\SetQuestionDataBase.csproj", "{108CCA17-AFCF-4533-A9CD-CB3D1E4DDFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MillionWebForm", "MillionWebForm\MillionWebForm.csproj", "{63066F74-5411-4403-9330-0A76DDA5AB7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41F5AFF7-A99E-48E9-B18E-A98D957EE019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F5AFF7-A99E-48E9-B18E-A98D957EE019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F5AFF7-A99E-48E9-B18E-A98D957EE019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F5AFF7-A99E-48E9-B18E-A98D957EE019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108CCA17-AFCF-4533-A9CD-CB3D1E4DDFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108CCA17-AFCF-4533-A9CD-CB3D1E4DDFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108CCA17-AFCF-4533-A9CD-CB3D1E4DDFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108CCA17-AFCF-4533-A9CD-CB3D1E4DDFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63066F74-5411-4403-9330-0A76DDA5AB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63066F74-5411-4403-9330-0A76DDA5AB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63066F74-5411-4403-9330-0A76DDA5AB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63066F74-5411-4403-9330-0A76DDA5AB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

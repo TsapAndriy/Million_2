@@ -1,0 +1,8 @@
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\MillionWebForm\bin\MillionWebForm.dll.config
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\MillionWebForm\bin\MillionWebForm.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\MillionWebForm\bin\MillionWebForm.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\MillionWebForm\obj\Debug\MillionWebForm.csprojResolveAssemblyReference.cache
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\MillionWebForm\obj\Debug\MillionWebForm.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\MillionWebForm\obj\Debug\MillionWebForm.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\MillionWebForm\bin\QuestionBase.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\MillionWebForm\bin\QuestionBase.pdb

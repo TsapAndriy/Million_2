@@ -1,0 +1,11 @@
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\SetQuestionDataBase\bin\Debug\SetQuestionDataBase.exe.config
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\SetQuestionDataBase\bin\Debug\SetQuestionDataBase.exe
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\SetQuestionDataBase\bin\Debug\SetQuestionDataBase.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\SetQuestionDataBase\bin\Debug\QuestionBase.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\SetQuestionDataBase\bin\Debug\QuestionBase.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\SetQuestionDataBase\obj\Debug\SetQuestionDataBase.csprojResolveAssemblyReference.cache
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\SetQuestionDataBase\obj\Debug\SetQuestionDataBase.QuestionForm.resources
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\SetQuestionDataBase\obj\Debug\SetQuestionDataBase.Properties.Resources.resources
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\SetQuestionDataBase\obj\Debug\SetQuestionDataBase.csproj.GenerateResource.Cache
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\SetQuestionDataBase\obj\Debug\SetQuestionDataBase.exe
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION\Million\SetQuestionDataBase\obj\Debug\SetQuestionDataBase.pdb
