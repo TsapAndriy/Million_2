@@ -1,0 +1,10 @@
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\QuestionBase\bin\Debug\Million.GameEngine.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\QuestionBase\bin\Debug\Million.GameEngine.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\QuestionBase\obj\Debug\Million.GameEngine.csprojResolveAssemblyReference.cache
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\QuestionBase\obj\Debug\Million.GameEngine.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\QuestionBase\obj\Debug\Million.GameEngine.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\QuestionBase\bin\Debug\Million.GameEngine.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\QuestionBase\bin\Debug\Million.GameEngine.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\QuestionBase\obj\Debug\Million.GameEngine.csprojResolveAssemblyReference.cache
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\QuestionBase\obj\Debug\Million.GameEngine.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\QuestionBase\obj\Debug\Million.GameEngine.pdb

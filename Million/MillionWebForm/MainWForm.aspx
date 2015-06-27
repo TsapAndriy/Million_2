@@ -1,4 +1,7 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MainWForm.aspx.cs" Inherits="MillionWebForm.MainWForm" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MainWForm.aspx.cs" Inherits="Million.WebForm.MainWForm" %>
+
+<%@ Register Src="~/UserControls/ucWiningSum.ascx" TagPrefix="uc1" TagName="ucWiningSum" %>
+
 
 <!DOCTYPE html>
 
@@ -56,10 +59,9 @@
 
         <asp:Label ID="lblMoney" Text="Грогші: 0" runat="server"></asp:Label>
 
-        <br>
-
         <asp:Label ID="lblCurrentMoney" Text="Неспалювана сума: 0" runat="server"></asp:Label>
 
+        <uc1:ucWiningSum runat="server" ID="ucWiningSum" />
 
     </div>
     </form>

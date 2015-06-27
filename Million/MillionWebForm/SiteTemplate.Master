@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteTemplate.master.cs" Inherits="Million.WebForm.SiteTemplate" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Who wants to be a millionaire?</title>
+    <link href="CSS/MainWForm.css" rel="stylesheet" type="text/css" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="header">
+        <h1>
+            Хто хоче стати міліонером?</h1>
+    </div>
+
+    <form id="form_All" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+
+    <div class="footer">
+        Copyrighted by Tsap Andriy, EPAM IT Lab 2015
+    </div>
+</body>
+</html>

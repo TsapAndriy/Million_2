@@ -8,30 +8,21 @@ using System.Xml;
 using System.IO;
 using System.Runtime.Serialization;
 
-namespace GameEngine 
+namespace Million.GameEngine
 {
     [DataContract]
     public class QuestionsBase
     {
-        public static string fileName = "333.xml";
+        private string _fileName;
 
         [DataMember]
         public List<Question> Questions { get; set; }
 
-        //[DataMember]
-        //public int LastId { get; private set; }
-
-        public QuestionsBase()
+        public QuestionsBase(string fileName)
         {
-           this.Questions = new List<Question>();
-           //GetQuestionsFromFile();
+            this.Questions = new List<Question>();
+            this._fileName = fileName;
         }
-
-        //public void Add(Question question)
-        //{
-        //    this.Questions.Add(question);
-        //    //this.LastId++;
-        //}
 
         public void Remove(Question question)
         {
@@ -50,24 +41,8 @@ namespace GameEngine
 
         public void Save(List<Question> questions)
         {
-            //using (XmlTextWriter xw = new XmlTextWriter(fileName, Encoding.UTF8)) //, FileMode.Append, FileAccess.Read))
-            //{
-            //    xw.Formatting = Formatting.Indented;
-            //    XmlDictionaryWriter writer = XmlDictionaryWriter.CreateDictionaryWriter(xw);
-            //    DataContractSerializer ser = new DataContractSerializer(typeof(QuestionsBase));
-            //    ser.WriteObject(writer, this);
-            //    writer.Close();
-            //    xw.Close();
-            //}
-
-
-            //XmlSerializer ser = new XmlSerializer(typeof(QuestionsBase));
-            //StreamWriter sw = new StreamWriter(fileName, true);
-            //ser.Serialize(sw, this);
-            //sw.Close();
-
             XmlSerializer ser = new XmlSerializer(typeof(List<Question>));
-            StreamWriter sw = new StreamWriter(fileName, true);
+            StreamWriter sw = new StreamWriter(_fileName, true);
             ser.Serialize(sw, questions);
             sw.Close();
         }
@@ -76,37 +51,12 @@ namespace GameEngine
         {
             this.Questions = new List<Question>();
 
-            //using (FileStream fs = new FileStream(fileName, FileMode.Open))
-            //{
-            //    XmlDictionaryReader reader = XmlDictionaryReader.CreateTextReader(fs, Encoding.UTF8, new XmlDictionaryReaderQuotas(), null);
-            //    DataContractSerializer ser = new DataContractSerializer(typeof(QuestionsBase));
-            //    this.Questions = ((QuestionsBase)ser.ReadObject(reader)).Questions;
-            //}
-
-
-            //XmlSerializer ser = new XmlSerializer(typeof(QuestionsBase));
-            //StreamReader sr = new StreamReader(fileName, true);
-            //ser.Deserialize(sr);
-            //sr.Close();
-
-
-            //XmlSerializer serializer = new XmlSerializer(typeof(QuestionsBase));
-            //using (FileStream fs = new FileStream(fileName, FileMode.Open))
-            //{
-            //    XmlReader reader = XmlReader.Create(fs);
-            //    this.Questions = ((QuestionsBase)serializer.Deserialize(reader)).Questions;
-            //    fs.Close();
-            //    reader.Close();                
-            //}
-
             XmlDocument xDoc = new XmlDocument();
-            xDoc.Load(fileName);
+            xDoc.Load(_fileName);
             XmlElement xRoot = xDoc.DocumentElement;
             foreach (XmlElement xnode in xRoot)
             {
-                //Question quiz = new Question();
-                //XmlNode xnodeQuest = xnode.FirstChild;
-                foreach (XmlNode childnodes in xnode.ChildNodes)//xnodeQuest.ChildNodes)
+                foreach (XmlNode childnodes in xnode.ChildNodes)
                 {
                     Question quiz = new Question();
                     foreach (XmlNode childnode in childnodes)
@@ -146,7 +96,7 @@ namespace GameEngine
         public Question GetQuestionByPrice (QuestionPrice price) 
         {
             var question = from q in Questions
-                       where (q.Price == price) // && !answeredQuestionsId.Contains(q.Id))
+                       where (q.Price == price) 
                        select q;
 
             Random r = new Random();

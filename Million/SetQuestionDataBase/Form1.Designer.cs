@@ -1,4 +1,4 @@
-﻿namespace SetQuestionDataBase
+﻿namespace Million.SetQuestionDataBase
 {
     partial class QuestionForm
     {

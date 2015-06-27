@@ -7,13 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using GameEngine;
+using Million.GameEngine;
 
-namespace SetQuestionDataBase
+namespace Million.SetQuestionDataBase
 {
     public partial class QuestionForm : Form
     {
-        //string _fileName = "222.xml";
+        string _fileName = "222.xml";
         private QuestionsBase _qbase;
         private List<Question> _questions;
 
@@ -21,7 +21,7 @@ namespace SetQuestionDataBase
         {
             InitializeComponent();
             SetComboBoxItems();
-            _qbase = new QuestionsBase();
+            _qbase = new QuestionsBase(_fileName);
             _questions = new List<Question>();
         }
 

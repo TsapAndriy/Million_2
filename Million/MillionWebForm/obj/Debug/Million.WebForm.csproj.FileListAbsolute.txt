@@ -1,0 +1,16 @@
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\MillionWebForm\obj\Debug\Million.WebForm.csprojResolveAssemblyReference.cache
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\MillionWebForm\bin\Million.WebForm.dll.config
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\MillionWebForm\bin\Million.WebForm.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\MillionWebForm\bin\Million.WebForm.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\MillionWebForm\bin\Million.GameEngine.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\MillionWebForm\bin\Million.GameEngine.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\MillionWebForm\obj\Debug\Million.WebForm.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILION_23_06\Million\MillionWebForm\obj\Debug\Million.WebForm.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\MillionWebForm\obj\Debug\Million.WebForm.csprojResolveAssemblyReference.cache
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\MillionWebForm\obj\Debug\Million.WebForm.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\MillionWebForm\obj\Debug\Million.WebForm.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\MillionWebForm\bin\Million.WebForm.dll.config
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\MillionWebForm\bin\Million.WebForm.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\MillionWebForm\bin\Million.WebForm.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\MillionWebForm\bin\Million.GameEngine.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\MILLION_2_Phase\Million\MillionWebForm\bin\Million.GameEngine.pdb
